@@ -1,12 +1,12 @@
-[submodule "/Users/mihai.iorga/.vim/pack/plugins/start/lightline"]
-	path = /Users/mihai.iorga/.vim/pack/plugins/start/lightline
+[submodule "pack/plugins/start/lightline"]
+	path = pack/plugins/start/lightline
 	url = https://github.com/itchyny/lightline.vim
-[submodule "/Users/mihai.iorga/.vim/pack/plugins/start/rainbow_parentheses"]
-	path = /Users/mihai.iorga/.vim/pack/plugins/start/rainbow_parentheses
+[submodule "pack/plugins/start/rainbow_parentheses"]
+	path = pack/plugins/start/rainbow_parentheses
 	url = https://github.com/kien/rainbow_parentheses.vim
 [submodule "pack/plugins/start/vim-startify"]
 	path = pack/plugins/start/vim-startify
 	url = https://github.com/mhinz/vim-startify
-[submodule "/Users/mihai.iorga/.vim/pack/plugins/start/gruvbox"]
-	path = /Users/mihai.iorga/.vim/pack/plugins/start/gruvbox
+[submodule "pack/plugins/start/gruvbox"]
+	path = pack/plugins/start/gruvbox
 	url = https://github.com/morhetz/gruvbox.git
